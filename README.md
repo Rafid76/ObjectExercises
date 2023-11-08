@@ -5,7 +5,7 @@
 * Methods
 * Getters and Setters
 * Conditional Statements (if-else)
-* Loops (for)
+* Loops
 * User Input Handling (Scanner)
 * Error Handling (try-catch)
 
